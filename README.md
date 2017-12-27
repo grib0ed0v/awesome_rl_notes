@@ -7,3 +7,7 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 
 # RL Courses:
 * [David Silver RL course (Google DeepMind)](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLHOg3HfW_teiYiq8yndRVwQ95LLPVUDJe)
+
+
+# Blogs & news:
+* [RL on Reddit](https://www.reddit.com/r/reinforcementlearning/)
