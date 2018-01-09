@@ -13,3 +13,4 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 
 ## RL Environments:
 * [OpenAI Gym](https://github.com/openai/gym)
+* [The DeepMind Control Suite and Package](https://github.com/deepmind/dm_control)
