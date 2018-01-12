@@ -15,3 +15,4 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [OpenAI Gym](https://github.com/openai/gym)
 * [The DeepMind Control Suite and Package](https://github.com/deepmind/dm_control)
 * [PySC2 - StarCraft II Learning Environment](https://github.com/deepmind/pysc2)
+* [CARLA - open-source simulator for autonomous driving research](https://github.com/carla-simulator/carla)
