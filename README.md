@@ -1,6 +1,8 @@
 # Awesome_RL_Notes
 This repository contains useful links &amp; notes of just one ordinary DL engineer
 
+## RL Books:
+* [Richard Sutton & Andrew Barto - Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
 ## RL Slides & Videos:
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [Practical RL from Yandex Data School](https://github.com/yandexdataschool/Practical_RL)
