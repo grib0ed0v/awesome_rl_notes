@@ -17,7 +17,7 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 
 ## Blogs & news:
 * [RL on Reddit](https://www.reddit.com/r/reinforcementlearning/)
-
+* [Deep Reinforcement Learning Doesn't Work Yet - 2018/02/14](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 ## RL Environments:
 * [OpenAI Gym](https://github.com/openai/gym)
 * [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
