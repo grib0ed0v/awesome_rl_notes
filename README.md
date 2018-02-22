@@ -1,4 +1,4 @@
-# Awesome_RL_Notes
+# Awesome RL Notes [![Awesome RL Notes](https://awesome.re/badge.svg)](https://github.com/grib0ed0v/awesome_rl_notes)
 This repository contains useful links &amp; notes of just one ordinary DL engineer
 
 ## RL Books:
