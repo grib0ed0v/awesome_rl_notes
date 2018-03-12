@@ -36,3 +36,4 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [Mastering the Game of Go with Deep Neural Networks and Tree Search](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf)
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 * [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/pdf/1802.06070.pdf)
+* [Back to Basics: Benchmarking Canonical Evolution Strategies for Playing Atari](https://arxiv.org/pdf/1802.08842.pdf)
