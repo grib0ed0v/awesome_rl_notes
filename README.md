@@ -37,3 +37,4 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 * [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/pdf/1802.06070.pdf)
 * [Back to Basics: Benchmarking Canonical Evolution Strategies for Playing Atari](https://arxiv.org/pdf/1802.08842.pdf)
+* [Kickstarting Deep Reinforcement Learning](https://arxiv.org/pdf/1803.03835.pdf)
