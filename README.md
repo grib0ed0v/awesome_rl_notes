@@ -22,6 +22,9 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [Reinforcement Learning never worked, and 'deep' only helped a bit - 2018/02/23](https://himanshusahni.github.io/2018/02/23/reinforcement-learning-never-worked.html)
 * [The Nuts and Bolts of Deep RL Research by John Schulman](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
 
+## Overview:
+* [Deep Reinforcement Learning: An Overview](https://arxiv.org/pdf/1701.07274.pdf)
+
 ## RL Environments:
 * [OpenAI Gym](https://github.com/openai/gym)
 * [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
