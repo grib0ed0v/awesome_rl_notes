@@ -18,6 +18,7 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 ## Blogs & news:
 * [RL on Reddit](https://www.reddit.com/r/reinforcementlearning/)
 * [Monte-Carlo Tree Search: Begginer Guide](https://int8.io/monte-carlo-tree-search-beginners-guide/)
+* [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/)
 * [Deep Reinforcement Learning Doesn't Work Yet - 2018/02/14](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 * [Reinforcement Learning never worked, and 'deep' only helped a bit - 2018/02/23](https://himanshusahni.github.io/2018/02/23/reinforcement-learning-never-worked.html)
 * [The Nuts and Bolts of Deep RL Research by John Schulman](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
