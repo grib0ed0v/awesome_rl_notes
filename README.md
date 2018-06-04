@@ -48,3 +48,4 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [Back to Basics: Benchmarking Canonical Evolution Strategies for Playing Atari](https://arxiv.org/pdf/1802.08842.pdf)
 * [Kickstarting Deep Reinforcement Learning](https://arxiv.org/pdf/1803.03835.pdf)
 * [Reproducibility in RL](https://arxiv.org/pdf/1709.06560.pdf)
+* [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
