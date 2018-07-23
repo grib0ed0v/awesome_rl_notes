@@ -23,6 +23,7 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [Deep Reinforcement Learning Doesn't Work Yet - 2018/02/14](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 * [Reinforcement Learning never worked, and 'deep' only helped a bit - 2018/02/23](https://himanshusahni.github.io/2018/02/23/reinforcement-learning-never-worked.html)
 * [The Nuts and Bolts of Deep RL Research by John Schulman](http://rll.berkeley.edu/deeprlcourse/docs/nuts-and-bolts.pdf)
+* [Faulty Reward Functions - OpenAI blog](https://blog.openai.com/faulty-reward-functions/)
 
 ## Overview:
 * [Deep Reinforcement Learning: An Overview](https://arxiv.org/pdf/1701.07274.pdf)
