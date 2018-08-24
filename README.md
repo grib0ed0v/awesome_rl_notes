@@ -10,6 +10,9 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [Practical RL from Yandex Data School](https://github.com/yandexdataschool/Practical_RL)
 * [Efficient Multi-Task Deep RL by V. Mnih](http://www.fields.utoronto.ca/video-archive/static/2018/01/2509-18003/mergedvideo.ogv)
 
+## RL-Related Demos:
+* [The Markov-chain Monte Carlo Interactive Gallery](https://chi-feng.github.io/mcmc-demo/)
+
 ## RL Courses:
 * [David Silver RL course (Google DeepMind)](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLHOg3HfW_teiYiq8yndRVwQ95LLPVUDJe)
 * [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
