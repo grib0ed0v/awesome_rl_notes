@@ -43,6 +43,7 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 ## RL Code:
 * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
 * [Implementation of Reinforcement Learning Algorithms by Denny Britz](https://github.com/dennybritz/reinforcement-learning)
+* [Dopamine (TF-based RL framework)](https://github.com/google/dopamine)
 
 ## RL (must-have) papers:
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf)
