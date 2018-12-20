@@ -4,6 +4,7 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 ## RL Books:
 * [Richard Sutton & Andrew Barto - Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
 * [Csaba Szepesvári - Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)
+* [Dimitri P. Bertsekas - Reinforcement Learning and Optimal Control](http://web.mit.edu/dimitrib/www/RLbook.html)
 
 ## RL Slides & Videos:
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
