@@ -40,6 +40,7 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [PySC2 - StarCraft II Learning Environment](https://github.com/deepmind/pysc2)
 * [CARLA - open-source simulator for autonomous driving research](https://github.com/carla-simulator/carla)
 * [Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents](https://arxiv.org/pdf/1801.08116.pdf)
+* [OpenSpiel: A Framework for Reinforcement Learning in Games](https://github.com/deepmind/open_spiel)
 
 ## RL Code:
 * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
