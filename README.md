@@ -41,6 +41,7 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [CARLA - open-source simulator for autonomous driving research](https://github.com/carla-simulator/carla)
 * [Psychlab: A Psychology Laboratory for Deep Reinforcement Learning Agents](https://arxiv.org/pdf/1801.08116.pdf)
 * [OpenSpiel: A Framework for Reinforcement Learning in Games](https://github.com/deepmind/open_spiel)
+* [Google Research Football](https://github.com/google-research/football)
 
 ## RL Code:
 * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
