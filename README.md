@@ -49,6 +49,8 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 * [Dopamine (TF-based RL framework)](https://github.com/google/dopamine)
 * [BlueWhale (PyTorch & Caffe2-based RL framework)](https://github.com/facebookresearch/BlueWhale)
 * [Deep Reinforcement Learning Algorithms with PyTorch by @p-christ](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+* [Deep Reinforcement Learning in PyTorch by BAIR](https://github.com/astooke/rlpyt)
+
 ## RL (must-have) papers:
 * [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf)
 * [Mastering the Game of Go with Deep Neural Networks and Tree Search](https://gogameguru.com/i/2016/03/deepmind-mastering-go.pdf)
